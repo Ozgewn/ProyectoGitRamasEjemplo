@@ -3,7 +3,7 @@ public class ProyectoGitRamasEjemplo {
 
 	public static void main(String[] args) {
 
-		System.out.println("Hello mundo");
+		System.out.println("Hell0 mundo");
 
 	}
 
