@@ -7,7 +7,7 @@ public class ProyectoGitRamasEjemplo {
 
 	}
 	
-	public static void imprimeSaludo{
+	public static void imprimeSaludo(){
 		System.out.println("Hei");
 	}
 
